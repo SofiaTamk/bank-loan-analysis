@@ -1,1 +1,2 @@
 # bank-loan-analysis
+The bank loan analysis project focused on key performance indicators (KPIs) such as year-wise loan amount distribution, grade and sub-grade-wise revolving balances, and total payments for verified versus non-verified accounts. It also examined loan status by state and last credit pull date, along with a comparison of homeownership status and last payment dates. The analysis provided insights into lending trends, risk assessment, repayment behaviors, and regional differences in loan performance. 
